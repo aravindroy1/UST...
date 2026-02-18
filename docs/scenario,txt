@@ -1,0 +1,4 @@
+Title: Firewall Access Control for Ambulance Priority Traffic Signal
+
+Scenario:
+Only authorized ambulances are allowed to control traffic signals during emergencies. Each ambulance is equipped with a registered RFID tag. When an ambulance approaches a traffic signal, the RFID reader verifies the tag ID. If the tag is authorized, the signal turns green to allow priority passage. Unauthorized vehicles or invalid RFID tags are denied access, and the signal continues normal operation to prevent misuse and ensure traffic safety.
